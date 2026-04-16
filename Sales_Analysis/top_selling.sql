@@ -1,0 +1,2 @@
+SELECT p.product_id,p.name,SUM(oi.quantity) AS total_quantity_sold FROM Products p JOIN Order_Items oi ON p.product_id = oi.product_id
+GROUP BY p.product_id, p.name ORDER BY total_quantity_sold DESC LIMIT 5;

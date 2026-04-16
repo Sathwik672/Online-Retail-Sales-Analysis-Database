@@ -1,0 +1,2 @@
+SELECT p.category, SUM(oi.quantity) AS total_items_sold, SUM(oi.quantity * p.price) AS total_revenue FROM Products p
+JOIN Order_Items oi ON p.product_id = oi.product_id GROUP BY p.category ORDER BY total_revenue DESC;
