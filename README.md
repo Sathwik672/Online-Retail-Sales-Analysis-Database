@@ -6,8 +6,14 @@ This project focuses on building a structured database for an online retail syst
 
 Technology Stack
 Database: MySQL 8.0
+
+
 Tool: MySQL Workbench
+
+
 Language: SQL
+
+
 
 Key Features & Analysis
 
