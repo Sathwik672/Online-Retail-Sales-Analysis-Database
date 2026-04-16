@@ -1,6 +1,7 @@
 # Online-Retail-Sales-Analysis-Database
 
 Overview
+
 This project focuses on building a structured database for an online retail system using MySQL. The goal is to organize customer, product, and order data efficiently and use SQL queries to generate meaningful insights that can help understand sales performance and customer behavior.
 
 Technology Stack
