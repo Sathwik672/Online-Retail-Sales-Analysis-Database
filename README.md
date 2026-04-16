@@ -25,7 +25,7 @@ Getting Started
 To run this project on your system, follow these steps:
 
 1. Clone the repository
-   git clone
+   git clone https://github.com/Sathwik672/Online-Retail-Sales-Analysis-Database.git
 
 2. Create the database schema
    Open MySQL Workbench and run the schema_design.sql file
